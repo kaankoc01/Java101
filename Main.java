@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-
+         // Girilen sınav notlarının ortalamasını alıp , gerçek ortalamayı bulan program.
         int mat , fizik , kimya, türkçe , tarih , müzik ;
 
 
